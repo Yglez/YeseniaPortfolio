@@ -1,31 +1,39 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# **Yesenia Gonzalez**
+
+## **Portfolio**
 
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## **Installation**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+To install Project Title, follow these steps:
 
-(* = not included)
+1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
+2. Navigate to the project directory: **`cd project-title`**
+3. Install dependencies: **`npm install`**
+4. Build the project: **`npm run build`**
+5. Start the project: **`npm start`**
 
-AJ
-aj@lkn.io | @ajlkn
+## **Contributing**
 
+If you'd like to contribute to Project Title, here are some guidelines:
 
-Credits:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes.
+4. Write tests to cover your changes.
+5. Run the tests to ensure they pass.
+6. Commit your changes.
+7. Push your changes to your forked repository.
+8. Submit a pull request.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## **License**
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Project Title is released under the MIT License. See the **[LICENSE](https://opensource.org/license/mit)** file for details.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## **Authors and Acknowledgment**
+
+Portfolio **[Yesenia](https://github.com/username)**.
+
+Acknowledgment:
+
+- **[AlexTheAnalyst](https://github.com/AlexTheAnalyst)**
